@@ -164,8 +164,4 @@ server {
 ├─cron.js                // 定时任务文件 （单独使用forever守护）
 ```
 
-## 捐助一下失业的我
-<p align="center">
-    <img width="300" src="https://cdn.jsdelivr.net/gh/abcd498936590/pic@master/img/alipay.jpg" />
-    <img width="300" src="https://cdn.jsdelivr.net/gh/abcd498936590/pic@master/img/tenpay.jpg" />
-</p>
+
