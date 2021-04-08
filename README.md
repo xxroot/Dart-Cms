@@ -54,6 +54,7 @@ Cms默认只有 封面上传七牛cdn、静态资源生成、播放源url替换 
 
 ``` bash
 # 安装依赖
+sudo su
 yum install npm
 npm install
 npm install mongoose
